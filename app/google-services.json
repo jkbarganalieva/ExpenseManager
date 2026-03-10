@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "800682655814",
+    "firebase_url": "https://expense-manager-236ea-default-rtdb.firebaseio.com",
+    "project_id": "expense-manager-236ea",
+    "storage_bucket": "expense-manager-236ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800682655814:android:057aedac1c6387032a4a47",
+        "android_client_info": {
+          "package_name": "com.example.expensemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CddYDmZeAdOjsRB5eIlCGabPiUWNKSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

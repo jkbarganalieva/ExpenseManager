@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="log_in_tv">Log in</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="log_in_btn">Log In</string>
+    <string name="forget_password_tv">Forget Password?</string>
+    <string name="don_t_have_account_sign_up_here_tv">Don\'t have account? Sign up here</string>
+    <string name="registration">Registration</string>
+    <string name="reg_btn">Registration</string>
+    <string name="already_have_account_sign_in_here">Already have account? Sign in here.</string>
+    <string name="dashboard_icon">DashBoard</string>
+    <string name="income_icon">Income</string>
+    <string name="expense_icon">Expense</string>
+    <string name="expense_manager">Expense Manager</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">DashBoard</string>
+    <string name="expense_fragment">Expense</string>
+    <string name="income_fragment">Income</string>
+    <string name="income_tv_fr">Income</string>
+    <string name="expense_tv_fr">Expense</string>
+    <string name="expense_ft_tv">Expense</string>
+    <string name="income_ft_tv">Income</string>
+    <string name="_000_00">000.00</string>
+    <string name="_000_00_">000.00</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="amount_hint">amount</string>
+    <string name="type">TYPE:</string>
+    <string name="note">NOTE:</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="income_income">income</string>
+    <string name="_000000_00_income">000000.00</string>
+    <string name="data_txt_rv">27 April 2025</string>
+    <string name="type_txt_recycler">Type</string>
+    <string name="note_txt_recycler">Note</string>
+    <string name="description">Description</string>
+    <string name="note_desc">Note</string>
+    <string name="_600000_txt_rv_amount">600000</string>
+    <string name="expense_expense">expense_expense</string>
+    <string name="_0000_00_expense">0000.00</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+
+</resources>

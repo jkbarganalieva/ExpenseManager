@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <group android:checkableBehavior="single">-->
+    <item android:id="@+id/dashboard_fr"
+        android:title="@string/dashboard_icon"
+        android:icon="@drawable/dashboard"/>
+
+    <item android:id="@+id/income_fr"
+        android:title="@string/income_icon"
+        android:icon="@drawable/income"/>
+
+    <item android:id="@+id/expense_fr"
+        android:title="@string/expense_icon"
+        android:icon="@drawable/expense"/>
+
+<!--    </group>-->
+</menu>
