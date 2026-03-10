@@ -64,6 +64,7 @@ public class RegistrationActivity extends AppCompatActivity {
                 }
                 if (TextUtils.isEmpty(pass)) {
                     mPass.setError("Password Recuaired..");
+                    return;
                 }
 
                 mDialog.setMessage("Processing");
